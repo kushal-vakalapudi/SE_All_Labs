@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+Lab_4_VibeCoding_Student_handout.pdf
